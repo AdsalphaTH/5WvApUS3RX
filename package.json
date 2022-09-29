@@ -1,0 +1,14 @@
+{
+    "name": "Gcg3iu0ODgZaz6i",
+    "theme": "syntax",
+    "version": "0.0.0",
+    "description": "โปรแกรมการตลาด 2023",
+    "keywords": [
+        "โปรแกรมการตลาด 2023"
+    ],
+    "repository": "https://github.com/AdsalphaTH/5WvApUS3RX.git",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
